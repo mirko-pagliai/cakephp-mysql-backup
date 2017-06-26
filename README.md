@@ -3,6 +3,9 @@
 [![Build Status](https://api.travis-ci.org/mirko-pagliai/cakephp-mysql-backup.svg?branch=master)](https://travis-ci.org/mirko-pagliai/cakephp-mysql-backup)
 [![Coverage Status](https://img.shields.io/codecov/c/github/mirko-pagliai/cakephp-mysql-backup.svg?style=flat-square)](https://codecov.io/github/mirko-pagliai/cakephp-mysql-backup)
 
+Starting June 2017 and *1.1.1* version, **this repository has been abandoned**.  
+See instead: [cakephp-database-backup](https://github.com/mirko-pagliai/cakephp-database-backup).
+
 *MySQLBackup* is a CakePHP plugin to export, import and manage database backups.
 
 ## Installation
